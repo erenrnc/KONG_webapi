@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin/Debug
+/DC/.vs
+/DC/bin/Debug/netcoreapp3.1
+/DC/obj
+/DC/DC.csproj.user
+/Marvel/.vs
+/Marvel/bin/Debug/netcoreapp3.1
+/Marvel/obj
+/obj
+/docker-compose.rar
+/docker-compose_latest.rar
+/.vs/KONG_webapi/v17
